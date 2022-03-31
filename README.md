@@ -1,6 +1,6 @@
 # Project-10_ML_Subject-Multi-Classifier-Model-using-NLP
 
-## &lt;font color = Green > Problem Statement &lt;/font>  
+## <font color = Green > Problem Statement </font>  
 
 In order to design a question set for the teachers in the future we need to identify a particular question from the pool of questions belonging to a particular subject. These questions are gathered and scrapped through the multiple channels and online open sources. Hence, need an classifier model to analyze the text in a question for identifying which subject it belongs to. 
 
